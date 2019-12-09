@@ -1,3 +1,4 @@
+/* eslint-disable no-use-before-define */
 const { isObject } = require('lodash')
 
 exports.wrapperRequest = fn => {

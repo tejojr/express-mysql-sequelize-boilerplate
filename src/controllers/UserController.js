@@ -1,7 +1,6 @@
 require('dotenv').config()
-const models = require('../models')
-
 const sQuery = require('sequelice-query')
+const models = require('../models')
 
 const { User, Sequelize } = models
 
