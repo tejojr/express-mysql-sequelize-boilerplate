@@ -6,7 +6,7 @@ const cors = require('cors')
 const route = require('./src/routes/')
 
 const app = express()
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 3030
 
 app.use(cors())
     .use(logger('dev'))
