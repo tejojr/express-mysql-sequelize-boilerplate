@@ -17,6 +17,7 @@
         "lodash": "^4.17.15",
         "morgan": "^1.9.1",
         "mysql2": "^2.0.2",
+        "node-fetch": "^2.6.1",
         "sequelice-query": "^1.0.2",
         "sequelize": "^4.44.3",
         "uno-api": "^1.1.0",
